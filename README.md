@@ -17,3 +17,4 @@ I’m @Farhan
 - 🔭 I’m currently working on AI, Web Development
 - 👀 I’m interested in Computer Architecture, AI, Machine Learning, Web Development
 - 📫 How to reach me - farhansafin97@yahoo.com
+- 😄 Pronouns: He/Him
