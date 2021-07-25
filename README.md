@@ -18,3 +18,6 @@ I’m @Farhan
 - 👀 I’m interested in Computer Architecture, AI, Machine Learning, Web Development
 - 📫 How to reach me - farhansafin97@yahoo.com
 - 😄 Pronouns: He/Him
+
+---
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanSafin&show_icons=true&theme=radical)
