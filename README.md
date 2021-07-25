@@ -20,4 +20,4 @@ I’m @Farhan
 - 😄 Pronouns: He/Him
 
 ---
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanSafin&show_icons=true&theme=radical)
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanSafin&show_icons=true&theme=dark)
