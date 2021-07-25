@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhansafin&label=Profile%20views&color=0e75b6&style=flat" alt="farhansafin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FarhanSafin&color=orange"  alt="farhansafin" /> </p>
 
 - 🔭 I’m currently working on AI, Web Development
 - 👀 I’m interested in Computer Architecture, AI, Machine Learning, Web Development
