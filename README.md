@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FarhanSafin&color=orange"  alt="farhansafin" /> </p>
 
 - 🔭 I’m currently working on AI, Web Development
-- 👀 I’m interested in Computer Architecture, AI, Machine Learning, Web Development
+- 👀 I’m interested in Computer Architecture, AI, Machine Learning, Web Development, Mobile App Development
 - 😄 Pronouns: He/Him
 
 
