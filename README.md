@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on AI, Web Development
 - 👀 I’m interested in Computer Architecture, AI, Machine Learning, Web Development, Mobile App Development
 - 😄 Pronouns: He/Him
+- 👀 Portfolio: [Visit](https://port-site-f.netlify.app/).
 
 
 <h2 align="left">Languages and Tools:</h2>
